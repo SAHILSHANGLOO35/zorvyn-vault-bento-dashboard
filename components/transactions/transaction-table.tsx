@@ -121,7 +121,8 @@ export const TransactionTable = ({
         <Table className="min-w-125">
           <TableHeader>
             <TableRow>
-              <TableHead>Category</TableHead> <TableHead>Status</TableHead>
+              <TableHead>Category</TableHead>
+              <TableHead>Status</TableHead>
               <TableHead>Amount</TableHead>
               <TableHead className="text-right">Type</TableHead>
             </TableRow>
